@@ -23,5 +23,5 @@ print(std2_name,"(",std2_age,") got grade :",std2_grade )
 
 #Print the grades average
 
-avg=std1_grade+std2_grade/2.0
+avg=(std1_grade+std2_grade)/2.0
 print("average = ",avg)
